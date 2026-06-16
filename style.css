@@ -4,6 +4,19 @@
     box-sizing:border-box;
 }
 
+.cabecera {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.cabecera img {
+    width: 120px;
+    height: auto;
+}
+
 body{
     font-family:Arial, sans-serif;
     background:#111;
