@@ -66,6 +66,25 @@ h2{
     border:1px solid #333;
 }
 
+.enlaces-proyecto {
+    margin-top: 20px;
+}
+
+.enlaces-proyecto a {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 14px;
+    background: #6a0dad;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.enlaces-proyecto a:hover {
+    background: #8a2be2;
+}
+
 footer{
     background:#0d0d0d;
     text-align:center;
